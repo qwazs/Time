@@ -1,2 +1,2 @@
-#MyApp
+__#MyApp__
 My first app (timer)

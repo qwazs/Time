@@ -1,2 +1,2 @@
-__#MyApp__
-My first app (timer)
+# MyApp
+Moja pierwsza strona __Czas__

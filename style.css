@@ -1,14 +1,14 @@
 #zegar::selection 
-{
-background: black;
-}
-	#zegar
+	{
+		background: black;
+	}
+#zegar
 	{
 		color: #1a440057;
 		font-size: 400px;
 		margin-top: 190px;
 	}
 body
-{
-	background-color: black;
-}
+	{
+		background-color: black;
+	}
